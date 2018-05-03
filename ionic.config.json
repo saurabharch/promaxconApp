@@ -1,0 +1,8 @@
+{
+  "name": "promaxconApp",
+  "app_id": "97342b07",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
